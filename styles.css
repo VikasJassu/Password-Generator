@@ -243,8 +243,8 @@ h1 {
     position:relative;
     z-index:1;
     appearance: none;
-    height:2rem;
-    width:2rem;
+    height:1.5rem;
+    width:1.5rem;
     border-radius: 50%;
     background-color: var(--vb-yellow);
     cursor:pointer;
